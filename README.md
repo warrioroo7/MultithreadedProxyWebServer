@@ -1,6 +1,6 @@
 ave a <h1>Multi Threaded Proxy Server with and without Cache</h1>
 
-This project is implemented using `C` and Parsing of HTTP referred from <a href = "https://github.com/vaibhavnaagar/proxy-server"> Proxy Server </a>
+This project is implemented using `C` 
 
 ## Project Theory
 
